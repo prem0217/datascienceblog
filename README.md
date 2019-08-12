@@ -4,10 +4,12 @@ As someone who is constantly looking into traveling and exploring different loca
 
 
 To view the results found in this repository one needs the following libraries and files
-Libraries: \n
+Libraries:   
+<ul>
 Pandas
 Numpy
 Matplotlib
+</ul>
 
 files:
 project.ipynb - jypter notebook with cleaning of the data and statistics done on the data
