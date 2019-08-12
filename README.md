@@ -4,7 +4,7 @@ As someone who is constantly looking into traveling and exploring different loca
 
 
 To view the results found in this repository one needs the following libraries and files
-Libraries:
+Libraries: \n
 Pandas
 Numpy
 Matplotlib
